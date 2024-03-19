@@ -2,60 +2,33 @@
 <h1 align="center">👋 Hi, I'm Karan Yadav</h1>
 <h3 align="center">Frontend Developer | Tech Enthusiast | Problem Solver</h3>
 
-<!-- Introduction -->
-<p align="center">🚀 Welcome to my GitHub! I'm passionate about creating delightful user experiences and solving real-world problems through technology.</p>
+<h3 align="center">A dedicated frontend developer from the diverse and vibrant tech ecosystem of India, driven by a passion for crafting captivating user experiences through innovative design and seamless functionality.</h3>
 
-<!-- Current Focus -->
-<h3 align="center">🔭 Current Focus</h3>
-<p align="center">Diving deep into real-world challenges and honing my skills through Hackathons. Excitedly learning the ins and outs of React Native development for building innovative mobile applications.</p>
+- 🔭 I’m currently working on **Real life problems (Hackathons Problems)**
 
-<!-- Projects -->
-<h3 align="center">🛠️ Projects</h3>
-<p align="center">Explore my diverse range of projects on [GitHub](https://github.com/geekskaran), showcasing my creativity, problem-solving abilities, and dedication to quality craftsmanship.</p>
+- 🌱 I’m currently learning **React Native Development**
 
-<!-- Collaboration -->
-<h3 align="center">🤝 Collaboration</h3>
-<p align="center">Open to collaborating on exciting projects and discussing ideas. Let's connect and brainstorm the next big thing!</p>
+- 👨‍💻 All of my projects are available at [https://github.com/geekskaran](https://github.com/geekskaran)
 
-<!-- Skills -->
-<h3 align="center">🚀 Skills</h3>
-<p align="center">Proficient in React, JavaScript, C++, and object-oriented programming. Love exploring new technologies and frameworks to stay ahead of the curve.</p>
+- 💬 Ask me about **React, Javascrpt, C++, OOPs**
 
-<!-- Contact -->
-<h3 align="center">📫 Let's Connect</h3>
-<p align="center">Reach out to me at [karanydv48@gmail.com](mailto:karanydv48@gmail.com) to discuss opportunities, tech trends, or just to say hello!</p>
+- 📫 How to reach me **karanydv48@gmail.com**
 
-<!-- Fun Fact -->
-<h3 align="center">⚡ Fun Fact</h3>
-<p align="center">I'm a minimalist eater – always on the lookout for the simplest yet most nutritious meals!</p>
+- 📄 Know about my experiences [yadavkaran.netlify.app](yadavkaran.netlify.app)
 
-<!-- Social Links -->
-<h3 align="center">Connect with Me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/karanydv" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
-  </a>
-  <a href="https://instagram.com/karan_16v" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
-  </a>
+- ⚡ Fun fact **I think i eat less**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/karanydv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanydv" height="30" width="40" /></a>
+<a href="https://instagram.com/karan_16v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_16v" height="30" width="40" /></a>
 </p>
 
-<!-- Languages and Tools -->
-<h3 align="center">Languages and Tools</h3>
-<p align="center">
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
-  <!-- Add more icons for languages and tools -->
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geekskaran&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekskaran&show_icons=true&locale=en&layout=compact" alt="geekskaran" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=geekskaran&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-rea dme-stats.vercel.app/api?username=geekskaran&show_icons=true&locale=en" alt="geekskaran" /></p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekskaran" alt="GitHub Streak" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekskaran&" alt="geekskaran" /></p>
