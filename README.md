@@ -1,47 +1,61 @@
-<h1 align="center">Hey there! 👋 I'm Karan Yadav</h1>
-<h3 align="center">A frontend enthusiast from the diverse tech landscape of India, passionate about crafting immersive user experiences.</h3>
+<!-- Header -->
+<h1 align="center">👋 Hi, I'm Karan Yadav</h1>
+<h3 align="center">Frontend Developer | Tech Enthusiast | Problem Solver</h3>
 
+<!-- Introduction -->
+<p align="center">🚀 Welcome to my GitHub! I'm passionate about creating delightful user experiences and solving real-world problems through technology.</p>
 
-- 🔭 Currently, I'm diving into **real-life challenges** through Hackathons.
+<!-- Current Focus -->
+<h3 align="center">🔭 Current Focus</h3>
+<p align="center">Diving deep into real-world challenges and honing my skills through Hackathons. Excitedly learning the ins and outs of React Native development for building innovative mobile applications.</p>
 
-- 🌱 Exploring the fascinating world of **React Native development** to build versatile mobile apps.
+<!-- Projects -->
+<h3 align="center">🛠️ Projects</h3>
+<p align="center">Explore my diverse range of projects on [GitHub](https://github.com/geekskaran), showcasing my creativity, problem-solving abilities, and dedication to quality craftsmanship.</p>
 
-- 👨‍💻 Explore my projects at [https://github.com/geekskaran](https://github.com/geekskaran).
+<!-- Collaboration -->
+<h3 align="center">🤝 Collaboration</h3>
+<p align="center">Open to collaborating on exciting projects and discussing ideas. Let's connect and brainstorm the next big thing!</p>
 
-- 💬 Let's chat about **React, JavaScript, C++, or anything tech-related!**
+<!-- Skills -->
+<h3 align="center">🚀 Skills</h3>
+<p align="center">Proficient in React, JavaScript, C++, and object-oriented programming. Love exploring new technologies and frameworks to stay ahead of the curve.</p>
 
-- 📫 Reach me at **karanydv48@gmail.com**.
+<!-- Contact -->
+<h3 align="center">📫 Let's Connect</h3>
+<p align="center">Reach out to me at [karanydv48@gmail.com](mailto:karanydv48@gmail.com) to discuss opportunities, tech trends, or just to say hello!</p>
 
-- 📄 Check out my experiences at [yadavkaran.netlify.app](https://yadavkaran.netlify.app).
+<!-- Fun Fact -->
+<h3 align="center">⚡ Fun Fact</h3>
+<p align="center">I'm a minimalist eater – always on the lookout for the simplest yet most nutritious meals!</p>
 
-- ⚡ Fun fact: **I might be a minimalist eater!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/karanydv" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karanydv" height="30" width="40" />
+<!-- Social Links -->
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/karanydv" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" />
   </a>
-  <a href="https://instagram.com/karan_16v" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="karan_16v" height="30" width="40" />
+  <a href="https://instagram.com/karan_16v" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram" />
   </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <!-- Add other tools and technologies here -->
+<!-- Languages and Tools -->
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>
+  <!-- Add more icons for languages and tools -->
 </p>
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekskaran&show_icons=true&locale=en&layout=compact" alt="geekskaran" />
+<!-- GitHub Stats -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=geekskaran&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekskaran&show_icons=true&locale=en" alt="geekskaran" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=geekskaran&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=geekskaran&" alt="geekskaran" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekskaran" alt="GitHub Streak" />
 </p>
