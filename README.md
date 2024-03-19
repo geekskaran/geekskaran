@@ -1,7 +1,6 @@
 <h1 align="center">Hey there! 👋 I'm Karan Yadav</h1>
 <h3 align="center">A frontend enthusiast from the diverse tech landscape of India, passionate about crafting immersive user experiences.</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 - 🔭 Currently, I'm diving into **real-life challenges** through Hackathons.
 
