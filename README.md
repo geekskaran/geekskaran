@@ -46,7 +46,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" margin="10px">
   <!-- Your existing tools and languages section -->
-  [Previous icons remain the same]
 </p>
 
 <!-- GitHub Stats with Enhanced Styling -->
@@ -63,7 +62,7 @@
 </div>
 
 <!-- Spotify Now Playing -->
-[![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_USER_ID)
+[![Spotify](https://novatorem-nu-seven.vercel.app/api/spotify)](https://open.spotify.com/user/31zihgai2lnr5oj7nye6bpzgea5e)
 
 <!-- Snake Animation -->
 ![Snake animation](https://github.com/geekskaran/geekskaran/blob/output/github-contribution-grid-snake.svg)
