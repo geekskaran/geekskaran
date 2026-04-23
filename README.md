@@ -2,18 +2,25 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:03050A,60:05F5A0,100:8B5CF6&height=200&section=header&text=Karan%20Yadav&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Gen%20AI%20Engineer%20%7C%20IIT%20Patna&descAlignY=58&descSize=17&animation=fadeIn"/>
 
-<img src="https://komarev.com/ghpvc/?username=geekskaran&label=Profile+Views&color=05F5A0&style=for-the-badge" />
-&nbsp;
-<img src="https://img.shields.io/github/followers/geekskaran?label=Followers&style=for-the-badge&color=8B5CF6&labelColor=03050A" />
-&nbsp;
-<img src="https://img.shields.io/badge/Open%20To%20Work-YES-05F5A0?style=for-the-badge&labelColor=03050A" />
+</div>
 
-<br/><br/>
+<!-- BADGES ROW — dark bg, colored text, clean contrast -->
+<div align="center">
 
+![Profile Views](https://komarev.com/ghpvc/?username=geekskaran&label=👁%20Profile%20Views&color=0d1117&style=for-the-badge&labelColor=0d1117)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/geekskaran?label=⭐%20Followers&style=for-the-badge&color=0d1117&labelColor=0d1117&logo=github&logoColor=05F5A0)](https://github.com/geekskaran)
+&nbsp;
+![Status](https://img.shields.io/badge/🟢%20Open%20To%20Work-0d1117?style=for-the-badge&labelColor=0d1117)
+
+</div>
+
+<br/>
+
+<div align="center">
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=05F5A0&center=true&vCenter=true&width=580&lines=Full+Stack+Developer+%F0%9F%9A%80;Gen+AI+Engineer+%F0%9F%A4%96;Real-Time+Systems+%E2%9A%A1;M.Tech+AI+%40+IIT+Patna+%F0%9F%8E%93;Building+things+that+ship+%F0%9F%94%A5" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=05F5A0&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Gen+AI+Engineer+%F0%9F%A4%96;Real-Time+Systems+Builder+%E2%9A%A1;M.Tech+AI+%40+IIT+Patna+%F0%9F%8E%93;Building+things+that+actually+ship+%F0%9F%94%A5" />
 </a>
-
 </div>
 
 ---
@@ -64,13 +71,13 @@ const karan: Developer = {
 ### 📊 &nbsp;GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api?username=geekskaran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=03050A&title_color=05F5A0&icon_color=8B5CF6&text_color=c9d1d9&ring_color=05F5A0&include_all_commits=true&count_private=true" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=geekskaran&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=05F5A0&icon_color=8B5CF6&text_color=c9d1d9&ring_color=05F5A0&include_all_commits=true&count_private=true" />
   &nbsp;
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekskaran&layout=compact&theme=tokyonight&hide_border=true&bg_color=03050A&title_color=05F5A0&text_color=c9d1d9&langs_count=8" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekskaran&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=05F5A0&text_color=c9d1d9&langs_count=8" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekskaran&theme=tokyonight&hide_border=true&background=03050A&ring=05F5A0&fire=FF5733&currStreakLabel=05F5A0&sideLabels=8B5CF6&dates=888888" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=geekskaran&theme=tokyonight&hide_border=true&background=0d1117&ring=05F5A0&fire=FF5733&currStreakLabel=05F5A0&sideLabels=8B5CF6&dates=888888" />
 </div>
 
 ---
@@ -78,7 +85,7 @@ const karan: Developer = {
 ### 📈 &nbsp;Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekskaran&theme=react-dark&bg_color=03050A&color=05F5A0&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=geekskaran&theme=react-dark&bg_color=0d1117&color=05F5A0&line=8B5CF6&point=ffffff&area=true&hide_border=true" />
 </div>
 
 ---
@@ -91,23 +98,26 @@ const karan: Developer = {
 
 ---
 
-### 🔗 &nbsp;Links
+### 🔗 &nbsp;Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-yadavkaran.netlify.app-05F5A0?style=for-the-badge&logo=netlify&logoColor=black)](https://yadavkaran.netlify.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-karanydv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karanydv)
-[![Gmail](https://img.shields.io/badge/Gmail-karanydv48@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karanydv48@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-karan__16v-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/karan_16v)
+[![Portfolio](https://img.shields.io/badge/Portfolio-yadavkaran.netlify.app-05F5A0?style=for-the-badge&logo=netlify&logoColor=black&labelColor=0d1117)](https://yadavkaran.netlify.app)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-karanydv-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://linkedin.com/in/karanydv)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-karanydv48-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:karanydv48@gmail.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-karan__16v-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117)](https://instagram.com/karan_16v)
 
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://yadavkaran.netlify.app">
-    <img src="https://img.shields.io/badge/%F0%9F%93%84%20Full%20Resume%20%26%20Projects%20%E2%86%92-yadavkaran.netlify.app-05F5A0?style=for-the-badge&labelColor=03050A" />
-  </a>
+
+[![Resume & Projects](https://img.shields.io/badge/📄%20Full%20Resume%20%26%20Projects%20%E2%86%92-yadavkaran.netlify.app-05F5A0?style=for-the-badge&labelColor=0d1117)](https://yadavkaran.netlify.app)
+
 </div>
 
 <br/>
