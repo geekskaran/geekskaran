@@ -1,34 +1,59 @@
-## Hi, I'm Karan Yadav
+<h1 align="center">Karan Yadav</h1>
 
-Full-stack developer and M.Tech (Artificial Intelligence) student at **IIT Patna**. I build web applications end to end and integrate LLMs into real products, with a particular interest in real-time systems.
+<p align="center">
+  Full-Stack Developer &nbsp;·&nbsp; Gen AI Engineer &nbsp;·&nbsp; M.Tech AI, IIT Patna
+</p>
 
-Currently working on **structural health monitoring** software at **PMT Infrascience**, building systems that collect, process, and visualize sensor data from infrastructure in real time.
+<p align="center">
+  <a href="https://yadavkaran.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=netlify&logoColor=05F5A0" /></a>
+  <a href="https://linkedin.com/in/karanydv"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="mailto:karanydv48@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+</p>
 
-### What I work on
+<br/>
 
-- **Full-stack web development** — React, Node.js, Express, Django, REST APIs, real-time features with WebSockets
-- **Applied Gen AI** — LLM integration, retrieval-augmented generation (RAG), agentic workflows
-- **Data visualization** — interactive dashboards for time-series and sensor data with D3.js
+I build full-stack products and plug AI into them. Right now I'm at **PMT Infrascience**, working on **structural health monitoring**: software that streams sensor data from bridges and buildings, processes it in real time, and turns it into dashboards engineers can act on.
 
-### Tech stack
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <b>🔭 Working on</b><br/>
+      Real-time sensor pipelines and monitoring dashboards
+    </td>
+    <td valign="top" width="50%">
+      <b>🌱 Exploring</b><br/>
+      Agentic AI, RAG pipelines, multimodal models
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <b>⚡ Good at</b><br/>
+      React, Node.js, Python, system design, WebSockets
+    </td>
+    <td valign="top">
+      <b>📫 Open to</b><br/>
+      Full-time roles in full-stack and AI engineering
+    </td>
+  </tr>
+</table>
 
-| Area | Tools |
-|---|---|
-| Languages | JavaScript, Python, C++ |
-| Frontend | React, React Native, Tailwind CSS, D3.js, Vite |
-| Backend | Node.js, Express, Django, Socket.IO |
-| Databases | PostgreSQL, MongoDB |
-| AI / ML | Hugging Face, LLM APIs, RAG pipelines |
-| Tools | Git, Postman, Figma |
+<br/>
 
-### Currently exploring
+### Stack
 
-Agentic AI systems, multimodal models, and production-grade RAG.
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,react,nodejs,express,django,tailwind,vite&theme=dark" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,git,postman,figma&theme=dark" />
+</p>
 
-### Contact
+<sub>Also: React Native · Socket.IO · D3.js · Hugging Face · LLM APIs</sub>
 
-- Portfolio: [yadavkaran.netlify.app](https://yadavkaran.netlify.app)
-- LinkedIn: [linkedin.com/in/karanydv](https://linkedin.com/in/karanydv)
-- Email: [karanydv48@gmail.com](mailto:karanydv48@gmail.com)
+<br/><br/>
 
-Open to full-time roles and internships in full-stack and AI engineering.
+### GitHub
+
+<p>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=geekskaran&show_icons=true&hide_border=true&hide_title=true&bg_color=0d1117&icon_color=05F5A0&text_color=c9d1d9&include_all_commits=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekskaran&layout=compact&hide_border=true&hide_title=true&bg_color=0d1117&text_color=c9d1d9&langs_count=6" />
+</p>
