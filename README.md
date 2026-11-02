@@ -1,41 +1,19 @@
 <h1 align="center">Karan Yadav</h1>
 
 <p align="center">
-  Full-Stack Developer &nbsp;·&nbsp; Gen AI Engineer &nbsp;·&nbsp; M.Tech AI, IIT Patna
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1500&color=05F5A0&center=true&vCenter=true&width=520&lines=Full-Stack+Developer+%E2%86%92+AI+Engineer;Building+with+React%2C+Node.js+%26+LLMs;Shipping+products%2C+not+demos" alt="Full-Stack Developer → AI Engineer" />
 </p>
 
 <p align="center">
   <a href="https://yadavkaran.netlify.app"><img src="https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=netlify&logoColor=05F5A0" /></a>
   <a href="https://linkedin.com/in/karanydv"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
   <a href="mailto:karanydv48@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335" /></a>
+  <img src="https://komarev.com/ghpvc/?username=geekskaran&label=Profile%20views&color=05F5A0&style=flat-square" alt="Profile views" />
 </p>
 
 <br/>
 
-I build full-stack products and plug AI into them. Right now I'm at **PMT Infrascience**, working on **structural health monitoring**: software that streams sensor data from bridges and buildings, processes it in real time, and turns it into dashboards engineers can act on.
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <b>🔭 Working on</b><br/>
-      Real-time sensor pipelines and monitoring dashboards
-    </td>
-    <td valign="top" width="50%">
-      <b>🌱 Exploring</b><br/>
-      Agentic AI, RAG pipelines, multimodal models
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <b>⚡ Good at</b><br/>
-      React, Node.js, Python, system design, WebSockets
-    </td>
-    <td valign="top">
-      <b>📫 Open to</b><br/>
-      Full-time roles in full-stack and AI engineering
-    </td>
-  </tr>
-</table>
+Full-stack developer building end-to-end web applications, now moving into AI engineering: bringing LLMs and intelligent features into real, production-ready products.
 
 <br/>
 
